@@ -27,7 +27,7 @@ The report was created as part of the **"Writing and Presenting Mathematics"** c
 
 ### From *Mathematics and Its History*:
 - Polynomial Functions  
-- Calculus with Complex Numbers
+- Calculus 
 
 ---
 
