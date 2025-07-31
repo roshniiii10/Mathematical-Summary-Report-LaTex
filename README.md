@@ -39,23 +39,9 @@ The report was created as part of the **"Writing and Presenting Mathematics"** c
 
 ---
 
-## 🛠 Requirements
-
-To compile the `.tex` file locally:
-
-- LaTeX distribution (TeX Live / MiKTeX / Overleaf)
-- Recommended compiler: `pdflatex` or `latexmk`
-
----
-
 ## 🎯 Purpose
 
 This report demonstrates proficiency in LaTeX, academic writing, and mathematical exposition — key skills for roles involving research, technical communication, or mathematically intensive software development.
 
----
 
-## 📬 Contact
-
-Feel free to explore or reuse parts of the LaTeX structure for your own academic writing.  
-For queries, connect with me via [GitHub](https://github.com/your-username) or [LinkedIn](https://www.linkedin.com/in/your-profile).
 
