@@ -1,20 +1,20 @@
 # Mathematical Summary Report (LaTeX)
 
-This project contains a LaTeX-based academic report summarizing selected chapters from two influential mathematics books:
+This repository contains a LaTeX-based academic report summarizing selected chapters from two influential mathematics books:
 
 - 📘 *Euler: The Master of Us All* by William Dunham  
 - 📘 *Mathematics and Its History* by John Stillwell  
 
-The report was created as part of the **"Writing and Presenting Mathematics"** course at **IIT Hyderabad**, focusing on typesetting mathematical ideas with clarity and academic precision.
+The report was prepared as part of the **"Writing and Presenting Mathematics"** course at **IIT Hyderabad**, with a focus on clearly typesetting mathematical ideas and presenting them with academic rigor.
 
 ---
 
 ## 📄 Files in the Repository
 
-| File Name                         | Description                                                  |
-|----------------------------------|--------------------------------------------------------------|
-| `Mathematical_Summary_Report.pdf` | Final compiled report (viewable without LaTeX)               |
-| `Mathematical_Summary_Report.tex` | LaTeX source code containing all content and formatting      |
+| File Name                        | Description                                     |
+|----------------------------------|-------------------------------------------------|
+| `Mathematical_Summary_Report.pdf` | Final compiled report (viewable without LaTeX) |
+| `Mathematical_Summary_Report.tex` | LaTeX source file with all formatting & content|
 
 ---
 
@@ -23,25 +23,25 @@ The report was created as part of the **"Writing and Presenting Mathematics"** c
 ### From *Euler: The Master of Us All*:
 - Euler and Number Theory  
 - Euler and Logarithms  
-- Euler and Infinite Series
+- Euler and Infinite Series  
 
 ### From *Mathematics and Its History*:
 - Polynomial Functions  
-- Calculus 
+- Calculus
 
 ---
 
 ## 🧠 Key Highlights
 
-- Focus on deep mathematical concepts from historical and analytical perspectives  
-- Professional LaTeX formatting using `amsmath`, `amssymb`, `amsthm`, and bibliography  
-- Structured academic writing for technical presentation
+- Focused on foundational mathematical topics from both historical and analytical perspectives  
+- Professionally typeset using LaTeX packages: `amsmath`, `amssymb`, `amsthm`, and `biblatex`  
+- Structured academic writing tailored for clarity, precision, and technical presentation
 
 ---
 
 ## 🎯 Purpose
 
-This report demonstrates proficiency in LaTeX, academic writing, and mathematical exposition — key skills for roles involving research, technical communication, or mathematically intensive software development.
+This project demonstrates proficiency in LaTeX, mathematical communication, and academic documentation — valuable skills for roles involving technical writing, research-based development, or mathematically intensive software engineering.
 
 
 
